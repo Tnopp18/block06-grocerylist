@@ -1,0 +1,52 @@
+.pantry {
+    background-color:grey;
+    width: 450px;
+    height: 150px;
+    margin: 10px;
+    border-style:double
+}
+.freezer {
+    background-color:grey;
+    width: 450px;
+    height: 150px;
+    margin: 10px;
+    border-style:double
+}
+
+h1 {
+    color: brown;
+    text-align: center;
+}
+
+h2 {
+    background-color:burlywood;
+    text-align: left;
+    text-decoration: solid;
+    border-style: dashed;
+    height: 35px;
+    width: 645px;
+    padding-left: 10px;
+    margin: 8px;
+    
+}
+section {
+    display:flex
+}
+
+img {
+    border-style: double;
+    margin-top: 11px;
+    width: 450px;
+    height: 150px;
+}
+
+h3 {
+    margin-left: 15px
+}
+
+#frozen { 
+    border-style: double;
+    margin-top: 11px;
+    width: 205px;
+    height: 150px;
+}
