@@ -1,20 +1,19 @@
 .pantry {
     background-color:grey;
-    width: 450px;
+    width: 250px;
     height: 150px;
     margin: 10px;
     border-style:double
 }
 .freezer {
     background-color:grey;
-    width: 450px;
+    width: 250px;
     height: 150px;
     margin: 10px;
     border-style:double
 }
 
 h1 {
-    color: brown;
     text-align: center;
 }
 
@@ -24,7 +23,7 @@ h2 {
     text-decoration: solid;
     border-style: dashed;
     height: 35px;
-    width: 645px;
+    width: 785px;
     padding-left: 10px;
     margin: 8px;
     
@@ -36,17 +35,18 @@ section {
 img {
     border-style: double;
     margin-top: 11px;
-    width: 450px;
+    width: 250px;
     height: 150px;
+    padding: auto;
 }
 
 h3 {
     margin-left: 15px
 }
 
-#frozen { 
+/* #frozen { 
     border-style: double;
     margin-top: 11px;
     width: 205px;
     height: 150px;
-}
+} */
